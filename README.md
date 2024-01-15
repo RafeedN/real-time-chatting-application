@@ -33,16 +33,20 @@ After running testing instructions will be in the terminal
 
 ## Functionality
 ### Conneting User
-![image](https://github.com/RafeedN/chatting-application/assets/87875513/f5be9cf8-21fc-489d-bdf0-16db70f16c33)
+![image](https://github.com/RafeedN/real-time-chatting-application/assets/87875513/187b37ae-e8fe-4087-949e-79543bd8d349)
 Connecting Don:
-![image](https://github.com/RafeedN/chatting-application/assets/87875513/ee5929ba-415b-4fa5-9430-f79f253aaf96)
+
+![image](https://github.com/RafeedN/real-time-chatting-application/assets/87875513/1ae6ff9a-2aea-4603-afa5-402e6b89f1be)
+
 ### Group Messesaging
 Dave and John Join
+
 ![image](https://github.com/RafeedN/real-time-chatting-application/assets/87875513/76df40c1-9324-4388-91b1-b0b08e8d40eb)
 
 ### Private Messesaging
 Private messages show in red.
 John sends private message to Don
+
 ![image](https://github.com/RafeedN/real-time-chatting-application/assets/87875513/1404972f-5149-4aba-89f4-797543b99dd9)
 
 
