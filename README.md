@@ -34,6 +34,7 @@ After running testing instructions will be in the terminal
 ## Functionality
 ### Conneting User
 ![image](https://github.com/RafeedN/real-time-chatting-application/assets/87875513/187b37ae-e8fe-4087-949e-79543bd8d349)
+
 Connecting Don:
 
 ![image](https://github.com/RafeedN/real-time-chatting-application/assets/87875513/1ae6ff9a-2aea-4603-afa5-402e6b89f1be)
