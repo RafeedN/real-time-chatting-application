@@ -3,11 +3,11 @@
 This project is a real-time collaborative web application built using Node.js, JavaScript, HTML, CSS, and Web Sockets. The application facilitates asynchronous communication between clients and the server, allowing for real-time collaboration similar to chat rooms.
 
 ## Key Features
-1. Asynchronous Communication: 
+1. **Asynchronous Communication**: 
   Leveraging web sockets to facilitate real-time data exchange between the server and clients, allowing for seamless collaboration.
-2. Integration of socket.io: 
+2. **Integration of socket.io**: 
   Incorporating the socket.io NPM module to enhance asynchronous communication capabilities, ensuring efficient data exchange over the HTTP protocol.
-3. Design Challenge - Decision-Making: 
+3. **Design Challenge - Decision-Making**: 
   Addressing the architectural dilemma of data and decision-making responsibilities within the application, offering flexibility in design choices.
 
 ## Project Learning Goals Achieved
@@ -34,6 +34,10 @@ After running testing instructions will be in the terminal
 ## Functionality
 Conneting User
 
+
 Group Messesaging
 
+
 Private Messesaging
+
+
