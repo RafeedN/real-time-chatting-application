@@ -32,15 +32,15 @@ $ node .\server.js
 After running testing instructions will be in the terminal
 
 ## Functionality
-###Conneting User
+### Conneting User
 ![image](https://github.com/RafeedN/chatting-application/assets/87875513/f5be9cf8-21fc-489d-bdf0-16db70f16c33)
 Connecting Don:
 ![image](https://github.com/RafeedN/chatting-application/assets/87875513/ee5929ba-415b-4fa5-9430-f79f253aaf96)
-###Group Messesaging
+### Group Messesaging
 Dave and John Join
 ![image](https://github.com/RafeedN/real-time-chatting-application/assets/87875513/76df40c1-9324-4388-91b1-b0b08e8d40eb)
 
-###Private Messesaging
+### Private Messesaging
 Private messages show in red.
 John sends private message to Don
 ![image](https://github.com/RafeedN/real-time-chatting-application/assets/87875513/1404972f-5149-4aba-89f4-797543b99dd9)
