@@ -8,7 +8,7 @@ This project is a real-time collaborative web application built using Node.js, J
 2. **Integration of socket.io**: 
   Incorporating the socket.io NPM module to enhance asynchronous communication capabilities, ensuring efficient data exchange over the HTTP protocol.
 3. **Design Challenge - Decision-Making**: 
-  Addressing the architectural dilemma of data and decision-making responsibilities within the application, offering flexibility in design choices.
+  Addressing the architectural dilemma of data and decision-making responsibilities within the application.
 
 ## Project Learning Goals Achieved
 1. Web Sockets Implementation
